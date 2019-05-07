@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: cacheable-qol
+  caches:
+    my-cache:
+      maximumSize: 20
